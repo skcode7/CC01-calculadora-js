@@ -20,3 +20,5 @@ Enlaces de la sesión
     CanIUse
 
 ¡Hasta el próximo directo!
+
+**Implementación personal en base al contenido generado por Daniel Primo**
